@@ -1,0 +1,8 @@
+{
+  "name": "MyBook List",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "dfbfc4a8"
+}
